@@ -1,0 +1,8 @@
+Package: com.newimgui.ark
+Name: CarsontoolTest
+Depends: mobilesubstrate
+Version: 1
+Architecture: iphoneos-arm
+Description: Testing Making Ark Cheat
+Maintainer: Carsontool
+Author: Carson
